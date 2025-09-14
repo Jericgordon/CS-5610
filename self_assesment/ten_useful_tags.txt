@@ -1,0 +1,18 @@
+1. <!DOCTYPE>. There's an argument that this is Necessary and not Useful. But the readings say that websites are liable to have weird bugs if you don't include it. If someone gave me a way to prevent a weird, and difficult to diognose bug, I'd count that as fairly useful.
+
+2. <body> Changing styles too often can make things look weird. It's good to have a marker for what will be most text on the website, and to make that look the same style. 
+
+3. <div>. It's really useful to be able to section of a portion of text for styleing.
+
+4. <em>. This is probably from being new to designing, but I find I still think about text stying primariry in bold, color, and italics. It's nice to have a more customizable equivelant of those.
+
+5 <img>. I don't think you can have a website in 2025 without images. This is how you insert them
+
+6 and 7. <ul> and <li>. Lists are great. I think my most used feature in google docs is the bullet points. They're even more flexible with HTML, allowing us to customize everything about them. A
+
+8. <p>. For similar reasons to body, I find grouping texxt together, and styling it quite useful.
+
+9. <header>. Code readability is important. Having sections that are really only for that readability are great.
+
+10. <table>. You don't always need it, but manually aligning columns is a lot of work.
+

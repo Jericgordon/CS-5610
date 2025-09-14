@@ -1,0 +1,6 @@
+All information below is sourced from https://developers.google.com/search/docs/fundamentals/seo-starter-guide.
+
+1. <a> - make sure your links are human readable. website/cats is better than website/12848951
+2. <title> - things inside the title are used to create the search headline. Being as specific as possible is better
+3. <meta> - content below the search headline is used to create the description. Writing longer meta tags can allow you to infulence what appears in the search, and so what people click on. But, Meta does not look at keywords in the meta tag. Stuffing them here doesn't do anything
+4. <img> - put relavent images near text, so that the images are correctly searched and identified.
