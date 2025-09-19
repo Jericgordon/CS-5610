@@ -3,3 +3,19 @@ h1 {
     font-family: serif;
     border-bottom: 1px solid rgba(0, 0, 0, .5);
 }
+
+h4,h5 {
+    padding: 0;
+    margin: 0;
+}
+.host-picture{
+    padding: 0em ;
+}
+
+.host-description{
+    padding: 1em;
+}
+
+.host-information{
+    border-top: 1px solid black;
+}
