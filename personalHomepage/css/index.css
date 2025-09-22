@@ -17,6 +17,7 @@ h1 {
     background-color: grey;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    width: 18rem;
 }
 
 .card-general-styling{

@@ -5,6 +5,10 @@ This project has two main goals. The first is to showcase my experience as an en
  
 And it very much shaped me as a person. My goal for this project is to communicate both of these things, and share them.
 
+## User Profiles
+### User 1 - Janet is a recruiter for a software company. She's Hiring, but has so many applications to look at
+### User 2 - Alex is a Hiker, and thinking about hiking the Applachian Trail. They're really worried it's going to be to remote for them
+### User 3 = Mary has a Hiking company startup. She's looking for a canidate who knows hiking, as well as a flexible skillset for a startup
 
 ## User stories
 ### Story 1
